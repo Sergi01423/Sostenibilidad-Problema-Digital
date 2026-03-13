@@ -4,7 +4,7 @@
 Antes tú comprabas el servicio de un software de manera indefinida
 Ahora debes estar pagando todos los meses por ese mismo servicio
 
-# Solucion Sergio
+# Solucion final
 Es cierto que ahora se espera que todo se pague por mensualidades o anualidades, incluso cuando antes era algo super basico
 La solucion que he pensado en este caso es que en caso de que se usasen subscripciones, sea exclusivamente para ventajas realmente notables.
 Una aplicacion con subscripcion tenga una version gratuita util, no excesivamente limitada, y que su version de "subscripcion" tenga ventajas mayores.
